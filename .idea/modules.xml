@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DSUChat.iml" filepath="$PROJECT_DIR$/DSUChat.iml" />
+      <module fileurl="file://D:\Divi\Divi\Home\DSU Chat\TheChat-DSU\DSUChat.iml" filepath="D:\Divi\Divi\Home\DSU Chat\TheChat-DSU\DSUChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheChat-DSU.iml" filepath="$PROJECT_DIR$/TheChat-DSU.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Divi\Divi\Home\DSU Chat\TheChat-DSU\app\app.iml" filepath="D:\Divi\Divi\Home\DSU Chat\TheChat-DSU\app\app.iml" />
     </modules>
   </component>
 </project>
