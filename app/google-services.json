@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647592947999",
+    "firebase_url": "https://dsu-chat-b8f36.firebaseio.com",
+    "project_id": "dsu-chat-b8f36",
+    "storage_bucket": "dsu-chat-b8f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647592947999:android:5253d39405c9efd4",
+        "android_client_info": {
+          "package_name": "chat.main.dsu_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647592947999-rnj5ofs3tred0debltgvabutfum6j9q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WpvaoDw1LwGWpXsbuRcqKq6fAKtw9yQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
